@@ -1,2 +1,2 @@
-# An Analysis on Higher Education
+# An Analysis of Higher Education
 ---
